@@ -1,5 +1,5 @@
 # PoemA
-Random mini-poem generation on Spanish. It only uses words cointaing the vowel 'A'. 
+Random mini-poem generation on Spanish. It only uses words cointaing the vowel 'A'. Lack of coherence it's the main problem now.
 
 ## Example 1
 
