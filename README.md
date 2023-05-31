@@ -6,7 +6,7 @@ Random poem generation on Spanish. It only uses words cointaing the vowel 'A'. T
       Las manás hazlan marcadas a las canallas,
       las fabadas flacas daban talladas mas las cañadas,
       las mañas acalladas manjarán,
-      avanzados atraparan tras las armadas,
+      avanzadas atraparan tras las armadas,
 
 
       Las mantas bañaban armadas tras las calmas,
